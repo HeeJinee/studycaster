@@ -1,0 +1,1 @@
+gunicorn scproject.wsgi --log-file -
